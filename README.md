@@ -20,13 +20,13 @@ CPA: Cost Per Acquisition
 Tools used
 Power BI * *: to visualize data and create dashboard.
 
-Visualizations
+# Visualizations
 
 <img width="1311" height="746" alt="Dashboard" src="https://github.com/user-attachments/assets/872e3630-3ae5-416c-b43c-3c00c20f7954" />
 
 
 Charts and Analysis
-1. Distribution of Total Cost and Conversions
+## 1. Distribution of Total Cost and Conversions
 Description: This chart shows how the total campaign costs , conversions, Total Clicks , Total Impressions and Avrage Cost Per Click (CPC)
 
 Key Metrics Analyzed:
@@ -40,7 +40,7 @@ Thoughts: For every 100 people who have seen the ad, approximately 10 have click
 
 <img width="1320" height="167" alt="details" src="https://github.com/user-attachments/assets/f7bab3af-b081-4fdf-a2c1-a68accbe41ff" />
 
-2. Average CTR by Month and Platform
+## 2. Average CTR by Month and Platform
 Description: This chart shows the average Click-Through Rate (CTR) for Facebook and LinkedIn campaigns each month.
 
 Key Metrics Analyzed:
@@ -52,8 +52,20 @@ Thoughts: There is a clear superiority of LinkedIn in the first quarter of the y
 
 <img width="1039" height="423" alt="Line_Chart" src="https://github.com/user-attachments/assets/ab343818-5c7c-46f8-9a46-17db37a369c0" />
 
+## 3. Total Cost by Month and Platform
+Description: This chart displays the total spending on campaigns for each month on both Facebook and LinkedIn.
 
-4. Campaign Type Performance
+Key Metrics Analyzed:
+
+Total Cost
+Month
+Platform (Facebook, LinkedIn)
+Thoughts: With the previous line chart (AVG_CTR), we can now link the efficiency of the platform to the cost of the campaign. This provides a clear visual representation of how performance measures relate to expenditure over time. The higher the actual ratio (CTR), the greater the cost.
+
+<img width="1003" height="364" alt="Line_Chart(Cost)" src="https://github.com/user-attachments/assets/4d98e907-31b6-4473-a568-4908fdd1b254" />
+
+
+## 4. Campaign Type Performance
 Description: This chart compares the performance of different campaign types (Brand Awareness, Lead Generation, Engagement, Conversion) based on key metrics like Impressions, Clicks, and Conversions.
 
 Key Metrics Analyzed:
@@ -75,7 +87,7 @@ Brand Awareness: While it is one of the least proliferative campaigns, brand awa
 <img width="981" height="367" alt="DetailsCampaige" src="https://github.com/user-attachments/assets/88738f88-f742-4993-a324-fa516edf8f72" />
 
 
-5. Platform Comparison
+## 5. Platform Comparison
 Description: This chart shows how Facebook and LinkedIn campaigns compare in terms of key metrics like Impressions, Clicks, and Conversions.
 
 Key Metrics Analyzed:
